@@ -75,6 +75,7 @@
     "unicorn/filename-case": "off",
     // Enables Array.reduce()
     "unicorn/no-array-reduce": "off",
+    "unicorn/no-new-array": "off",
     "unicorn/no-null": "off",
     // https://basarat.gitbooks.io/typescript/docs/tips/defaultIsBad.html
     "import/prefer-default-export": "off",
