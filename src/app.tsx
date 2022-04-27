@@ -1,7 +1,7 @@
 import { Header, Grid } from '../components';
 
 const App = (): JSX.Element => (
-  <div className="h-screen w-screen bg-slate-200">
+  <div className="h-screen w-screen overflow-auto bg-slate-200">
     <Header />
     <Grid />
   </div>
